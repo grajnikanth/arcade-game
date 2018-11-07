@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+}
+
+/*The below CSS styling controls the modal which will be displayed when player wins the game*/
+.modal_background {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+/*The class = hide is used to control whether the modal shall be visible or not*/
+.hide {
+  display: none;
+}
+
+/*The class = modal_body controls the smaller model displayed inside the modal to show information to
+the user.*/
+.modal_body {
+  position: fixed;
+  width: 505px;
+  top: 35%;
+  left: 50%;
+  background: #ffffff;
+  transform: translate(-50%, -40%);
+}
+
+/*The rest of the classes of the html below are used to control the styling of the modal
+window displayed on the screen like heading, title, buttons*/
+.modal_heading {
+  display: flex;
+  /*justify-content: space-between;*/
+  padding-top: 0.2rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid gray;
+}
+
+.modal_title {
+  padding-left: 4rem;
+}
+
+.modal_buttons {
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem;
+}
+
+.modal_button {
+  width: 100px;
+  height: 50px;
+  font-size: 1.5rem;
+}
