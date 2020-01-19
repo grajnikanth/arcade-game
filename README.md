@@ -20,6 +20,8 @@ Below is an image of the game board.
 
 ![](images/arcade_game.png)
 
+## Code Information
+
 The javascript files are located in the /js/ folder. There are three .js files:
 app.js
 engine.js
@@ -40,5 +42,5 @@ I added the html for creating the modal required to display the window when the 
 Also in the /css/ folder the style.css file has all the styling related to the index.html file.
 I added the styling needed to display the modal.
 
-Running the game on your computer
+## Running the game on your computer
 To run the game clone the repository to your local folder. All the folders and sub folders will be needed to run the game. Once downloaded, open a web browser and open the index.html file to play the game.
