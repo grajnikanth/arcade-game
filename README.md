@@ -23,9 +23,9 @@ Below is an image of the game board.
 ## Code Information
 
 The javascript files are located in the /js/ folder. There are three .js files:
-app.js
-engine.js
-resources.js
+* app.js
+* engine.js
+* resources.js
 
 The engine.js and resources.js files were provided by Udacity.
 
