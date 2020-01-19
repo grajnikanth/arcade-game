@@ -5,7 +5,7 @@ This is the Project 3 for the Udacity Front End Web Developer Nanodegree. In thi
 
 The starter code provided by Udacity contains visual assets and a game loop engine; using these tools I added a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger.
 
-JavaScript’s object oriented programming features were used to write eloquently designed classes capable of creating countless instances of similarly functioning objects. Inheritance and delegation can be used to create well architected and performant application.
+JavaScript’s object oriented programming features were used to write eloquently designed classes capable of creating countless instances of similarly functioning objects. Inheritance and delegation were used to create well architected and performant application.
 
 ## Overview: Game Functionality
 
